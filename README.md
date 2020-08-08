@@ -6,10 +6,6 @@
   
 This repository was created for code used in the manuscript <a href="#TDATumourVasculature">[1]</a>.
 
-<h3> 0_Data </h3>
-
-This file contains the data used.
-
 <h3> 1_Data Extraction </h3>
 
 This folder contains scripts to reconstruct 3D vascular networks from .nii image stacks (to create .nii files from .tiff stacks use <a href="www.gatsby.ucl.ac.uk/~test/matlabTools.zip"> Matlab toolbox</a> by Sainsbury Wellcome Centre (<a href="https://github.com/SainsburyWellcomeCentre/aMAP/wiki"> documentation </a>). 
