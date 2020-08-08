@@ -201,7 +201,7 @@ RocheGetBettiStruct.m: This script creates the file Roche_tumour_data.mat and in
   Day after initial treatment
   <p>
   <li> 
-  Folder Name
+  Folder name
   <p>
   <li> 
   Betti 1 curve radial filtration
