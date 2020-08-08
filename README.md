@@ -285,5 +285,8 @@ The intravital data was analysed adapting the above scripts to create the file t
 This folder contains all statistical analyses performed on the intravital and ultramicroscopy data as well as the .csv files used for the analysis.
 
 
+<h3> References </h3>
+<a name="TDATumourVasculature">[1]</a> Multiscale Topology Characterises Dynamic Tumour Vascular Networks. BJ Stolz, J Kaeppler, B
+	Markelc, F Mech, F Lipsmeier, RJ Muschel, HM Byrne, HA Harrington, <i>submitted</i>, 2020.
 
 
