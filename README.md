@@ -4,7 +4,7 @@
   
 <h3> Description </h3>
   
-This repository was created for code used in the manuscript <a href="#TDATumourVasculature">[1]</a>.
+This repository was created for code used in the manuscript <a href="#TDATumourVasculature">[1]</a>. The manuscript can be found <a href="https://arxiv.org/abs/2008.08667"> here</a>.
 
 <h3> 1_Data Extraction </h3>
 
@@ -283,6 +283,6 @@ This folder contains all statistical analyses performed on the intravital and ul
 
 <h3> References </h3>
 <a name="TDATumourVasculature">[1]</a> Multiscale Topology Characterises Dynamic Tumour Vascular Networks. BJ Stolz, J Kaeppler, B
-	Markelc, F Mech, F Lipsmeier, RJ Muschel, HM Byrne, HA Harrington, <i>submitted</i>, 2020.
+	Markelc, F Mech, F Lipsmeier, RJ Muschel, HM Byrne, HA Harrington, <i>arXiv preprint arXiv:2008.08667</i>, 2020.
 
 
