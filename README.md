@@ -10,9 +10,11 @@ This repository was created for code used in the manuscript <a href="#TDATumourV
 
 This folder contains scripts to reconstruct 3D vascular networks from .nii image stacks (to create .nii files from .tiff stacks use <a href="www.gatsby.ucl.ac.uk/~test/matlabTools.zip"> Matlab toolbox</a> by Sainsbury Wellcome Centre (<a href="https://github.com/SainsburyWellcomeCentre/aMAP/wiki"> documentation </a>). 
 
-Requirements: <a href="https://ibme-gitcvs.eng.ox.ac.uk/RussellB/unet-test"> unet_core</a>
-
 <ul>
+	
+<p>
+<li>
+unet_core: Software package shared with permission from Russell Bates (see <a href="https://github.com/psweens/Vascular-TDA/tree/main/2_Data_Extraction/unet_core"> here</a> for an updated version of this package that is compatible with newer versions of Python)
 
 <p>
 <li>
