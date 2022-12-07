@@ -285,6 +285,6 @@ This folder contains all statistical analyses performed on the intravital and ul
 
 <h3> References </h3>
 <a name="TDATumourVasculature">[1]</a> Multiscale Topology Characterises Dynamic Tumour Vascular Networks. BJ Stolz, J Kaeppler, B
-	Markelc, F Mech, F Lipsmeier, RJ Muschel, HM Byrne, HA Harrington, <i>arXiv preprint arXiv:2008.08667</i>, 2020.
+	Markelc, F Mech, F Lipsmeier, RJ Muschel, HM Byrne, HA Harrington,  Science Advances 8 (23), eabm2456, 2022.
 
 
